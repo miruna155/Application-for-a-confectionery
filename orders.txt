@@ -1,0 +1,2 @@
+1;1,chocolate,6,caramel;2024-01-12
+2;2,fruits;2023-11-22
